@@ -1,0 +1,17 @@
+<task_list>
+<task id="1">
+	<task_name>wash the dishes</task_name>
+	<description>i should do it befor 6 p.m.</description>
+	<status>completed</status>
+</task>
+<task id="2">
+	<task_name>test</task_name>
+	<description>test discr</description>
+	<status>completed</status>
+</task>
+<task id="3">
+	<task_name>go for a walk</task_name>
+	<description>to lenin's str</description>
+	<status>completed</status>
+</task>
+</task_list>
