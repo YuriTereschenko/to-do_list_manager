@@ -1,5 +1,5 @@
 # README
-This program allows you to keep a user's to-do list
+This program allows you to keep to-do list
 
 _It has the following functionality:_
 1. Entering tasks with the name and description of the task
@@ -14,4 +14,4 @@ The program consists of 4 modules written in Python, 1 xml file(task list),
 Logs file will be created automatically after the first change of the to-do list
 Data is managed and received from the console
 
-``You need to run the program from the module "main``
+``You need to run the program from the module "main"``
